@@ -16,3 +16,11 @@ Previously, I’ve led design for large-scale platforms at Stack Overflow and Mi
 Outside of work, I run an [airsoft & paintball field](coyoteforce.com), design and photograph all of its branding and creative, collect retro games and LEGO, and spend as much time as I can with my daughters.
 
 You can find me on my website, or exploring new ideas wherever design, systems, and storytelling overlap.
+
+<p> 
+<a href="https://x.com/courtnycotten" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="courtnycotten" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/courtnycotten" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="courtnycotten" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/5508354/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5508354" height="20" width="20" /></a>
+<a href="https://dribbble.com/court" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="court" height="20" width="20" /></a>
+<a href="https://medium.com/@courtny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@courtny" height="20" width="20" /></a>
+</p>
